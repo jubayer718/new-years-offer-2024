@@ -1,0 +1,38 @@
+@media screen and (max-width: 576px) {
+  .header-container h1{
+    font-size: 2.5rem;
+  }
+  .header-container{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 400px 400px;
+ 
+    border: 1px solid rebeccapurple;
+  } 
+  .offer-65 img{
+    width: 100%;
+  }
+  
+  .welcome-container{
+    flex-direction: column;
+    background-size: 700px 800px;
+    
+ 
+  }
+  .welcome-content{
+    width: 100%;
+  }
+  .welcome-2024 img{
+    width: 200px;
+    margin-left: 0 auto;
+  }
+  .coming-soon, .coming-soon-img{
+    flex-direction: column;
+ 
+  }
+  .coming-soon-child, .coming-soon-img, .coming-soon-content{
+  width: 100%;
+ }
+
+  
+}
