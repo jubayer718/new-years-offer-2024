@@ -33,6 +33,11 @@
   .coming-soon-child, .coming-soon-img, .coming-soon-content{
   width: 100%;
  }
+ 
+ .discounts-50 :nth-child(3){
+ width: 100%;
+ margin: 1rem auto;
+}
 
   
 }

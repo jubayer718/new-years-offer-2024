@@ -194,3 +194,30 @@ margin-bottom: 20px;
 
 /* coming soon section style ends */
 
+/* discounts offer 50% */
+.discounts-50{
+  text-align: center;
+}
+.discounts-50 :nth-child(1){
+  font-size: 1.5rem;
+  color: #070211;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.discounts-50 :nth-child(2){
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.discounts-50 :nth-child(2) :where(span){
+  color: #FF0000;
+  font-size: 3rem;
+  font-weight: 700;
+}
+.discounts-50 :nth-child(3){
+ width: 667px;
+ margin: 1rem auto;
+}
+
+/* discounts offer 50%  ends*/
+
