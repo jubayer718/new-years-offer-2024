@@ -59,6 +59,20 @@
   bottom: 100px;
   right: 20px;
 }
+.awesome-portfolio :nth-child(3){
+  width: 100%;
+}
+
+.awesome-container{
+  width: 100%;
+  grid-template-columns: 1fr;
+}
+
+
+
+
+
+
 
   
 }
