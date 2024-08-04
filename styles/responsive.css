@@ -39,5 +39,26 @@
  margin: 1rem auto;
 }
 
+.discounts-50-container{
+  
+  margin-top: 200px;}
+  
+  
+
+
+.discounts-50-container :nth-child(1){
+  width: 200px;
+  position: absolute;
+  left: 0;
+ 
+  bottom: 30px;
+
+}
+.discounts-50-container :nth-child(2){
+  width: 150px;
+  bottom: 100px;
+  right: 20px;
+}
+
   
 }
